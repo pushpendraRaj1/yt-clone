@@ -21,11 +21,11 @@ This is a YouTube clone project built using React.js. The project aims to replic
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/yt-clone-main.git
+    git clone https://github.com/pushpendraRaj1/yt-clone.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd yt-clone-main
+    cd yt-clone
     ```
 3. Install dependencies:
     ```bash
